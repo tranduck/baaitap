@@ -29,8 +29,6 @@
         <a href="https://www.facebook.com/">Ấn đi nè</a> <br>
         <button onclick="document.location='https://www.facebook.com/'">Đăng nhập</button>
 
-    
-
     <h1>5. HTML Lists</h1>
      
     <ul>
